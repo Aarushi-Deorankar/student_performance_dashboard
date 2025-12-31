@@ -81,7 +81,7 @@ These slicers dynamically filter all visuals on the dashboard.
 📊 Decision Support: Assists in data-driven academic planning and evaluation
 
 6. Project Preview
-📷 A snapshot of the dashboard is included in the repository as dashboard.png.
+The dashboard looks like this - https://github.com/Aarushi-Deorankar/student_performance_dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
 7. Purpose of the Project
 
